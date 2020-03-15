@@ -222,7 +222,7 @@ div[class*="databaseTable_import_wrap"] {
 }
 
 .databaseTable_UI_scrollRight {
-  position: absolute;
+  position: fixed;
   top: 0;
   right: 0;
   bottom: 0;
@@ -289,7 +289,7 @@ div[class*="databaseTable_import_wrap"] {
 }
 
 .databaseTable_UI_scrollLeft {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   bottom: 0;

@@ -189,7 +189,7 @@ div[class*="databaseTable_import_wrap"] {
   min-width: 3.75em;
 }
 .databaseTable_UI_scrollRight {
-  position: absolute;
+  position: fixed;
   top: 0;
   right: 0;
   bottom: 0;
@@ -275,7 +275,7 @@ div[class*="databaseTable_import_wrap"] {
   border-right-color: #cc570e;
 }
 .databaseTable_UI_scrollLeft {
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   bottom: 0;
